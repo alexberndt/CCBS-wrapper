@@ -1,0 +1,3 @@
+/home/alexander/Documents/code/CCBS_wrapper/CCBS/CMakeFiles/edit_cache.dir
+/home/alexander/Documents/code/CCBS_wrapper/CCBS/CMakeFiles/rebuild_cache.dir
+/home/alexander/Documents/code/CCBS_wrapper/CCBS/CMakeFiles/C-CBS.dir

@@ -1,8 +1,7 @@
 # Continuous-CBS
 Continuous CBS - a modification of conflict based search algorithm, that allows to perform actions of any arbitrary duration.
-The main differences are the representation of constraints, timeline, collision detection mechanism and using SIPP algorithm as a low-level planner. More info about CCBS and its principles of work you can find at https://arxiv.org/abs/1901.05506
 
-Note that master branch contains a version of CCBS that uses grids as the description of environment. You can find a version that allows to use non regular graphs, such as roadmaps, at https://github.com/PathPlanning/Continuous-CBS/tree/CCBS-graphs
+This branch is a version of Continiuous CBS that uses regular graphs instead of grids for environment description. It requires another format of input files. Instead of grid, input map-file contains a description of graph in GraphML notation. The task file should contain the IDs of nodes which correspond to the start and goal locations of the agents. More information about GraphML you can find at http://graphml.graphdrawing.org/
 
 ## Getting Started
 
@@ -23,7 +22,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 Download current repository to your local machine. Use
 ```
-git clone https://github.com/PathPlanning/Continuous-CBS.git
+git clone https://github.com/PathPlanning/AA-SIPP-m.git
 ```
 or direct downloading.
 
@@ -38,7 +37,6 @@ The examples of input and output files you can find in the Examples folder.
 
 ## Options
 There are some options that can be controlled through the `const.h` file:
-* CN_K - controls the connectedness of the grid. Possible values: 2 - 4 cardinal neighbors; 3 - 4 cardinal + 4 diagonal; 4 - 16 neighbors; 5 - 32 neighbors.
 * CN_CARDINAL - controls whether the algorithm is looking for cardinal and semi-cardinal collisions or not. Possible values are `1`(true) or `0` (false).
 * CN_HISTORY - controls whether the algorithm uses the information about previosly found collisions. This option allows to reduce the time requred for collision detection function, but it can't be directly combined with looking for cardinal conflicts. Possible values are `1`(true) or `0` (false).
 * CN_STOP_CARDINAL - this option allows to stop looking for cardinal conflicts in cases, when the algorithm cannot find them anymore in the current branch of high-level tree. It also allows to combine CN_CARDINAL and CN_HISTORY options. Possible values are `1`(true) or `0` (false).
@@ -56,4 +54,4 @@ The output file will be placed in the same folder as input files and, by default
 "initial_task_file_name.xml" -> "initial_task_file_name_log.xml"
 ```
 
-[![Build Status](https://travis-ci.org/PathPlanning/Continuous-CBS.svg?branch=master)](https://travis-ci.org/PathPlanning/Continuous-CBS)
+[![Build Status](https://travis-ci.org/PathPlanning/Continuous-CBS.svg?branch=CCBS-graphs)](https://travis-ci.org/PathPlanning/Continuous-CBS)

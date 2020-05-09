@@ -11,7 +11,7 @@ matrix:
       addons:
         apt:
           sources: ['ubuntu-toolchain-r-test']
-          packages: ['g++-4.9', 'libboost-dev']
+          packages: ['g++-4.9']
       env: COMPILER=g++-4.9
 
 script:
