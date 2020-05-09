@@ -2,7 +2,7 @@
     <agent goal_id="1" start_id="5"/>
     <agent goal_id="2" start_id="15"/>
     <log>
-        <summary time="0.000107779" flowtime="9.9827059795361954" makespan="7.019503963611978"/>
+        <summary time="5.0856000000000002e-05" flowtime="9.9827059795361954" makespan="7.019503963611978"/>
         <agent number="0">
             <path number="0" length="2.9632020159242174">
                 <hplevel>
