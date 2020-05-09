@@ -1,0 +1,556 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+   
+  
+   <key attr.name="coords" attr.type="string" for="node" id="key0" />
+   
+  
+   <key attr.name="weight" attr.type="double" for="edge" id="key1" />
+
+   <graph edgedefault="undirected" id="G" parse.edgeids="free" parse.nodeids="free" parse.order="nodesfirst">
+      
+    
+  
+      <node id="n0">
+         <data key="key0">0.0,1.0</data>
+      </node>
+      <node id="n1">
+         <data key="key0">0.0,0.0</data>
+      </node>
+      <node id="n2">
+         <data key="key0">1.0,0.0</data>
+      </node>
+      <node id="n3">
+         <data key="key0">2.5,0.0</data>
+      </node>
+      <node id="n4">
+         <data key="key0">1.5,0.8</data>
+      </node>
+      <node id="n5">
+         <data key="key0">2.5,1.0</data>
+      </node>
+      <node id="n6">
+         <data key="key0">1.5,1.9</data>
+      </node>
+      <node id="n7">
+         <data key="key0">2.5,2.1</data>
+      </node>
+      <node id="n8">
+         <data key="key0">1.5,3.05</data>
+      </node>
+      <node id="n9">
+         <data key="key0">2.4,2.95</data>
+      </node>
+      <node id="n10">
+         <data key="key0">1.45,4.3</data>
+      </node>
+      <node id="n11">
+         <data key="key0">2.45,4.4</data>
+      </node>
+      <node id="n12">
+         <data key="key0">1.85,5.6</data>
+      </node>
+      <node id="n13">
+         <data key="key0">0.75,6.4</data>
+      </node>
+      <node id="n14">
+         <data key="key0">0.25,4.95</data>
+      </node>
+      <node id="n15">
+         <data key="key0">-0.5,5.9</data>
+      </node>
+      <node id="n16">
+         <data key="key0">-0.2,4.5</data>
+      </node>
+      <node id="n17">
+         <data key="key0">-0.1,3.5</data>
+      </node>
+      <node id="n18">
+         <data key="key0">-0.15,2.5</data>
+      </node>
+      <node id="n19">
+         <data key="key0">-0.13,1.5</data>
+      </node>
+      <node id="n20">
+         <data key="key0">1.0,1.2</data>
+      </node>
+      <node id="n21">
+         <data key="key0">1.0,2.1</data>
+      </node>
+      <node id="n22">
+         <data key="key0">1.0,3.09</data>
+      </node>
+      <node id="n23">
+         <data key="key0">0.9,3.85</data>
+      </node>
+      <node id="n24">
+         <data key="key0">3.6,5.7</data>
+      </node>
+      <node id="n25">
+         <data key="key0">3.7,4.2</data>
+      </node>
+      <node id="n26">
+         <data key="key0">3.6,3.1</data>
+      </node>
+      <node id="n27">
+         <data key="key0">3.6,1.98</data>
+      </node>
+      <node id="n28">
+         <data key="key0">3.6,0.8</data>
+      </node>
+      <node id="n29">
+         <data key="key0">-1.2,-0.1</data>
+      </node>
+      <node id="n30">
+         <data key="key0">-1.1,0.8</data>
+      </node>
+      <node id="n31">
+         <data key="key0">-1.25,1.9</data>
+      </node>
+      <node id="n32">
+         <data key="key0">-1.3,3.1</data>
+      </node>
+      <node id="n33">
+         <data key="key0">-1.25,4.4</data>
+      </node>
+      <node id="n34">
+         <data key="key0">-2.1,0.0</data>
+      </node>
+      <node id="n35">
+         <data key="key0">-2.1,1.0</data>
+      </node>
+      <node id="n36">
+         <data key="key0">-2.01,2.1</data>
+      </node>
+      <node id="n37">
+         <data key="key0">-2.2,3.05</data>
+      </node>
+      <node id="n38">
+         <data key="key0">-2.08,4.25</data>
+      </node>
+      <node id="n39">
+         <data key="key0">0.55,0.5</data>
+      </node>
+      <node id="n40">
+         <data key="key0">0.5,1.6</data>
+      </node>
+      <node id="n41">
+         <data key="key0">0.45,2.2</data>
+      </node>
+      <node id="n42">
+         <data key="key0">0.45,3.2</data>
+      </node>
+      <node id="n43">
+         <data key="key0">0.4,4.1</data>
+      </node>
+      <edge id="e0001" source="n0" target="n1">
+         <data key="key1">1.0</data>
+      </edge>
+      <edge id="e0002" source="n1" target="n0">
+         <data key="key1">1.0</data>
+      </edge>
+      <edge id="e1001" source="n1" target="n2">
+         <data key="key1">1.0</data>
+      </edge>
+      <edge id="e1002" source="n2" target="n1">
+         <data key="key1">1.0</data>
+      </edge>
+      <edge id="e2001" source="n2" target="n3">
+         <data key="key1">1.5</data>
+      </edge>
+      <edge id="e2002" source="n3" target="n2">
+         <data key="key1">1.5</data>
+      </edge>
+      <edge id="e3001" source="n2" target="n4">
+         <data key="key1">0.9433981132056605</data>
+      </edge>
+      <edge id="e3002" source="n4" target="n2">
+         <data key="key1">0.9433981132056605</data>
+      </edge>
+      <edge id="e4001" source="n3" target="n4">
+         <data key="key1">1.2806248474865698</data>
+      </edge>
+      <edge id="e4002" source="n4" target="n3">
+         <data key="key1">1.2806248474865698</data>
+      </edge>
+      <edge id="e5001" source="n3" target="n5">
+         <data key="key1">1.0</data>
+      </edge>
+      <edge id="e5002" source="n5" target="n3">
+         <data key="key1">1.0</data>
+      </edge>
+      <edge id="e6001" source="n4" target="n5">
+         <data key="key1">1.019803902718557</data>
+      </edge>
+      <edge id="e6002" source="n5" target="n4">
+         <data key="key1">1.019803902718557</data>
+      </edge>
+      <edge id="e7001" source="n4" target="n6">
+         <data key="key1">1.0999999999999999</data>
+      </edge>
+      <edge id="e7002" source="n6" target="n4">
+         <data key="key1">1.0999999999999999</data>
+      </edge>
+      <edge id="e8001" source="n4" target="n7">
+         <data key="key1">1.6401219466856727</data>
+      </edge>
+      <edge id="e8002" source="n7" target="n4">
+         <data key="key1">1.6401219466856727</data>
+      </edge>
+      <edge id="e9001" source="n4" target="n20">
+         <data key="key1">0.6403124237432848</data>
+      </edge>
+      <edge id="e9002" source="n20" target="n4">
+         <data key="key1">0.6403124237432848</data>
+      </edge>
+      <edge id="e10001" source="n5" target="n6">
+         <data key="key1">1.345362404707371</data>
+      </edge>
+      <edge id="e10002" source="n6" target="n5">
+         <data key="key1">1.345362404707371</data>
+      </edge>
+      <edge id="e11001" source="n5" target="n7">
+         <data key="key1">1.1</data>
+      </edge>
+      <edge id="e11002" source="n7" target="n5">
+         <data key="key1">1.1</data>
+      </edge>
+      <edge id="e12001" source="n5" target="n28">
+         <data key="key1">1.118033988749895</data>
+      </edge>
+      <edge id="e12002" source="n28" target="n5">
+         <data key="key1">1.118033988749895</data>
+      </edge>
+      <edge id="e13001" source="n6" target="n7">
+         <data key="key1">1.019803902718557</data>
+      </edge>
+      <edge id="e13002" source="n7" target="n6">
+         <data key="key1">1.019803902718557</data>
+      </edge>
+      <edge id="e14001" source="n6" target="n8">
+         <data key="key1">1.15</data>
+      </edge>
+      <edge id="e14002" source="n8" target="n6">
+         <data key="key1">1.15</data>
+      </edge>
+      <edge id="e15001" source="n6" target="n9">
+         <data key="key1">1.3829316685939332</data>
+      </edge>
+      <edge id="e15002" source="n9" target="n6">
+         <data key="key1">1.3829316685939332</data>
+      </edge>
+      <edge id="e16001" source="n6" target="n21">
+         <data key="key1">0.5385164807134505</data>
+      </edge>
+      <edge id="e16002" source="n21" target="n6">
+         <data key="key1">0.5385164807134505</data>
+      </edge>
+      <edge id="e17001" source="n7" target="n8">
+         <data key="key1">1.379311422413372</data>
+      </edge>
+      <edge id="e17002" source="n8" target="n7">
+         <data key="key1">1.379311422413372</data>
+      </edge>
+      <edge id="e18001" source="n7" target="n9">
+         <data key="key1">0.8558621384311845</data>
+      </edge>
+      <edge id="e18002" source="n9" target="n7">
+         <data key="key1">0.8558621384311845</data>
+      </edge>
+      <edge id="e19001" source="n7" target="n27">
+         <data key="key1">1.1065260954898444</data>
+      </edge>
+      <edge id="e19002" source="n27" target="n7">
+         <data key="key1">1.1065260954898444</data>
+      </edge>
+      <edge id="e20001" source="n8" target="n9">
+         <data key="key1">0.9055385138137415</data>
+      </edge>
+      <edge id="e20002" source="n9" target="n8">
+         <data key="key1">0.9055385138137415</data>
+      </edge>
+      <edge id="e21001" source="n8" target="n10">
+         <data key="key1">1.2509996003196804</data>
+      </edge>
+      <edge id="e21002" source="n10" target="n8">
+         <data key="key1">1.2509996003196804</data>
+      </edge>
+      <edge id="e22001" source="n8" target="n11">
+         <data key="key1">1.6507574019219182</data>
+      </edge>
+      <edge id="e22002" source="n11" target="n8">
+         <data key="key1">1.6507574019219182</data>
+      </edge>
+      <edge id="e23001" source="n8" target="n22">
+         <data key="key1">0.5015974481593781</data>
+      </edge>
+      <edge id="e23002" source="n22" target="n8">
+         <data key="key1">0.5015974481593781</data>
+      </edge>
+      <edge id="e24001" source="n9" target="n10">
+         <data key="key1">1.6507574019219176</data>
+      </edge>
+      <edge id="e24002" source="n10" target="n9">
+         <data key="key1">1.6507574019219176</data>
+      </edge>
+      <edge id="e25001" source="n9" target="n11">
+         <data key="key1">1.450861812854691</data>
+      </edge>
+      <edge id="e25002" source="n11" target="n9">
+         <data key="key1">1.450861812854691</data>
+      </edge>
+      <edge id="e26001" source="n9" target="n26">
+         <data key="key1">1.2093386622447826</data>
+      </edge>
+      <edge id="e26002" source="n26" target="n9">
+         <data key="key1">1.2093386622447826</data>
+      </edge>
+      <edge id="e27001" source="n10" target="n11">
+         <data key="key1">1.0049875621120892</data>
+      </edge>
+      <edge id="e27002" source="n11" target="n10">
+         <data key="key1">1.0049875621120892</data>
+      </edge>
+      <edge id="e28001" source="n10" target="n12">
+         <data key="key1">1.3601470508735443</data>
+      </edge>
+      <edge id="e28002" source="n12" target="n10">
+         <data key="key1">1.3601470508735443</data>
+      </edge>
+      <edge id="e29001" source="n10" target="n14">
+         <data key="key1">1.3647344063956182</data>
+      </edge>
+      <edge id="e29002" source="n14" target="n10">
+         <data key="key1">1.3647344063956182</data>
+      </edge>
+      <edge id="e30001" source="n10" target="n23">
+         <data key="key1">0.7106335201775945</data>
+      </edge>
+      <edge id="e30002" source="n23" target="n10">
+         <data key="key1">0.7106335201775945</data>
+      </edge>
+      <edge id="e31001" source="n11" target="n12">
+         <data key="key1">1.3416407864998732</data>
+      </edge>
+      <edge id="e31002" source="n12" target="n11">
+         <data key="key1">1.3416407864998732</data>
+      </edge>
+      <edge id="e32001" source="n11" target="n25">
+         <data key="key1">1.2658988901172163</data>
+      </edge>
+      <edge id="e32002" source="n25" target="n11">
+         <data key="key1">1.2658988901172163</data>
+      </edge>
+      <edge id="e33001" source="n12" target="n14">
+         <data key="key1">1.7269916039170543</data>
+      </edge>
+      <edge id="e33002" source="n14" target="n12">
+         <data key="key1">1.7269916039170543</data>
+      </edge>
+      <edge id="e34001" source="n12" target="n13">
+         <data key="key1">1.360147050873545</data>
+      </edge>
+      <edge id="e34002" source="n13" target="n12">
+         <data key="key1">1.360147050873545</data>
+      </edge>
+      <edge id="e35001" source="n12" target="n24">
+         <data key="key1">1.7528548142958105</data>
+      </edge>
+      <edge id="e35002" source="n24" target="n12">
+         <data key="key1">1.7528548142958105</data>
+      </edge>
+      <edge id="e36001" source="n13" target="n15">
+         <data key="key1">1.346291201783626</data>
+      </edge>
+      <edge id="e36002" source="n15" target="n13">
+         <data key="key1">1.346291201783626</data>
+      </edge>
+      <edge id="e37001" source="n14" target="n15">
+         <data key="key1">1.2103718436910205</data>
+      </edge>
+      <edge id="e37002" source="n15" target="n14">
+         <data key="key1">1.2103718436910205</data>
+      </edge>
+      <edge id="e38001" source="n14" target="n16">
+         <data key="key1">0.6363961030678928</data>
+      </edge>
+      <edge id="e38002" source="n16" target="n14">
+         <data key="key1">0.6363961030678928</data>
+      </edge>
+      <edge id="e39001" source="n15" target="n16">
+         <data key="key1">1.4317821063276357</data>
+      </edge>
+      <edge id="e39002" source="n16" target="n15">
+         <data key="key1">1.4317821063276357</data>
+      </edge>
+      <edge id="e40001" source="n16" target="n17">
+         <data key="key1">1.004987562112089</data>
+      </edge>
+      <edge id="e40002" source="n17" target="n16">
+         <data key="key1">1.004987562112089</data>
+      </edge>
+      <edge id="e41001" source="n17" target="n18">
+         <data key="key1">1.0012492197250393</data>
+      </edge>
+      <edge id="e41002" source="n18" target="n17">
+         <data key="key1">1.0012492197250393</data>
+      </edge>
+      <edge id="e42001" source="n18" target="n19">
+         <data key="key1">1.000199980003999</data>
+      </edge>
+      <edge id="e42002" source="n19" target="n18">
+         <data key="key1">1.000199980003999</data>
+      </edge>
+      <edge id="e43001" source="n19" target="n0">
+         <data key="key1">0.5166236541235796</data>
+      </edge>
+      <edge id="e43002" source="n0" target="n19">
+         <data key="key1">0.5166236541235796</data>
+      </edge>
+      <edge id="e44001" source="n1" target="n29">
+         <data key="key1">1.2041594578792296</data>
+      </edge>
+      <edge id="e44002" source="n29" target="n1">
+         <data key="key1">1.2041594578792296</data>
+      </edge>
+      <edge id="e45001" source="n0" target="n30">
+         <data key="key1">1.118033988749895</data>
+      </edge>
+      <edge id="e45002" source="n30" target="n0">
+         <data key="key1">1.118033988749895</data>
+      </edge>
+      <edge id="e46001" source="n19" target="n31">
+         <data key="key1">1.1892854997854805</data>
+      </edge>
+      <edge id="e46002" source="n31" target="n19">
+         <data key="key1">1.1892854997854805</data>
+      </edge>
+      <edge id="e47001" source="n18" target="n32">
+         <data key="key1">1.2971121771072849</data>
+      </edge>
+      <edge id="e47002" source="n32" target="n18">
+         <data key="key1">1.2971121771072849</data>
+      </edge>
+      <edge id="e48001" source="n17" target="n33">
+         <data key="key1">1.4603081866510235</data>
+      </edge>
+      <edge id="e48002" source="n33" target="n17">
+         <data key="key1">1.4603081866510235</data>
+      </edge>
+      <edge id="e49001" source="n16" target="n33">
+         <data key="key1">1.0547511554864493</data>
+      </edge>
+      <edge id="e49002" source="n33" target="n16">
+         <data key="key1">1.0547511554864493</data>
+      </edge>
+      <edge id="e50001" source="n17" target="n32">
+         <data key="key1">1.2649110640673518</data>
+      </edge>
+      <edge id="e50002" source="n32" target="n17">
+         <data key="key1">1.2649110640673518</data>
+      </edge>
+      <edge id="e51001" source="n18" target="n31">
+         <data key="key1">1.252996408614167</data>
+      </edge>
+      <edge id="e51002" source="n31" target="n18">
+         <data key="key1">1.252996408614167</data>
+      </edge>
+      <edge id="e52001" source="n19" target="n30">
+         <data key="key1">1.196202324023825</data>
+      </edge>
+      <edge id="e52002" source="n30" target="n19">
+         <data key="key1">1.196202324023825</data>
+      </edge>
+      <edge id="e53001" source="n0" target="n29">
+         <data key="key1">1.6278820596099708</data>
+      </edge>
+      <edge id="e53002" source="n29" target="n0">
+         <data key="key1">1.6278820596099708</data>
+      </edge>
+      <edge id="e54001" source="n29" target="n30">
+         <data key="key1">0.9055385138137417</data>
+      </edge>
+      <edge id="e54002" source="n30" target="n29">
+         <data key="key1">0.9055385138137417</data>
+      </edge>
+      <edge id="e55001" source="n30" target="n31">
+         <data key="key1">1.1101801655587258</data>
+      </edge>
+      <edge id="e55002" source="n31" target="n30">
+         <data key="key1">1.1101801655587258</data>
+      </edge>
+      <edge id="e56001" source="n31" target="n32">
+         <data key="key1">1.2010412149464316</data>
+      </edge>
+      <edge id="e56002" source="n32" target="n31">
+         <data key="key1">1.2010412149464316</data>
+      </edge>
+      <edge id="e57001" source="n32" target="n33">
+         <data key="key1">1.300961183125769</data>
+      </edge>
+      <edge id="e57002" source="n33" target="n32">
+         <data key="key1">1.300961183125769</data>
+      </edge>
+      <edge id="e58001" source="n29" target="n34">
+         <data key="key1">0.9055385138137418</data>
+      </edge>
+      <edge id="e58002" source="n34" target="n29">
+         <data key="key1">0.9055385138137418</data>
+      </edge>
+      <edge id="e59001" source="n30" target="n35">
+         <data key="key1">1.019803902718557</data>
+      </edge>
+      <edge id="e59002" source="n35" target="n30">
+         <data key="key1">1.019803902718557</data>
+      </edge>
+      <edge id="e60001" source="n31" target="n36">
+         <data key="key1">0.7858753081755399</data>
+      </edge>
+      <edge id="e60002" source="n36" target="n31">
+         <data key="key1">0.7858753081755399</data>
+      </edge>
+      <edge id="e61001" source="n32" target="n37">
+         <data key="key1">0.9013878188659975</data>
+      </edge>
+      <edge id="e61002" source="n37" target="n32">
+         <data key="key1">0.9013878188659975</data>
+      </edge>
+      <edge id="e62001" source="n33" target="n38">
+         <data key="key1">0.8434453153583819</data>
+      </edge>
+      <edge id="e62002" source="n38" target="n33">
+         <data key="key1">0.8434453153583819</data>
+      </edge>
+      <edge id="e63001" source="n0" target="n39">
+         <data key="key1">0.7433034373659253</data>
+      </edge>
+      <edge id="e63002" source="n39" target="n0">
+         <data key="key1">0.7433034373659253</data>
+      </edge>
+      <edge id="e64001" source="n19" target="n40">
+         <data key="key1">0.6378871373526825</data>
+      </edge>
+      <edge id="e64002" source="n40" target="n19">
+         <data key="key1">0.6378871373526825</data>
+      </edge>
+      <edge id="e65001" source="n18" target="n41">
+         <data key="key1">0.6708203932499368</data>
+      </edge>
+      <edge id="e65002" source="n41" target="n18">
+         <data key="key1">0.6708203932499368</data>
+      </edge>
+      <edge id="e66001" source="n17" target="n42">
+         <data key="key1">0.6264982043070834</data>
+      </edge>
+      <edge id="e66002" source="n42" target="n17">
+         <data key="key1">0.6264982043070834</data>
+      </edge>
+      <edge id="e67001" source="n16" target="n43">
+         <data key="key1">0.7211102550927981</data>
+      </edge>
+      <edge id="e67002" source="n43" target="n16">
+         <data key="key1">0.7211102550927981</data>
+      </edge>
+   </graph>
+   
+
+</graphml>

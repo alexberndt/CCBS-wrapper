@@ -1,0 +1,93 @@
+<root>
+    <agent goal_id="3" start_id="1"/>
+    <agent goal_id="5" start_id="2"/>
+    <log>
+        <summary time="4.4459999999999998e-05" flowtime="4.4632020159242174" makespan="2.5"/>
+        <agent number="0">
+            <path number="0" length="2.5">
+                <hplevel>
+                    <section number="0" start.x="0" start.y="0" finish.x="0" finish.y="0" length="0"/>
+                    <section number="1" start.x="0" start.y="0" finish.x="0" finish.y="1" length="1"/>
+                    <section number="2" start.x="0" start.y="1" finish.x="0" finish.y="2.5" length="1.5"/>
+                </hplevel>
+            </path>
+        </agent>
+        <agent number="1">
+            <path number="1" length="1.9632020159242174">
+                <hplevel>
+                    <section number="0" start.x="0" start.y="1" finish.x="0" finish.y="1" length="0"/>
+                    <section number="1" start.x="0" start.y="1" finish.x="0.80000000000000004" finish.y="1.5" length="0.94339811320566047"/>
+                    <section number="2" start.x="0.80000000000000004" start.y="1.5" finish.x="1" finish.y="2.5" length="1.0198039027185568"/>
+                </hplevel>
+            </path>
+        </agent>
+        <edge start.x="0" start.y="1" finish.x="0" finish.y="0"/>
+        <edge start.x="0" start.y="1" finish.x="-0.13" finish.y="1.5"/>
+        <edge start.x="0" start.y="1" finish.x="-1.1000000000000001" finish.y="0.80000000000000004"/>
+        <edge start.x="0" start.y="1" finish.x="-1.2" finish.y="-0.10000000000000001"/>
+        <edge start.x="0" start.y="1" finish.x="0.55000000000000004" finish.y="0.5"/>
+        <edge start.x="0" start.y="0" finish.x="1" finish.y="0"/>
+        <edge start.x="0" start.y="0" finish.x="-1.2" finish.y="-0.10000000000000001"/>
+        <edge start.x="1" start.y="0" finish.x="2.5" finish.y="0"/>
+        <edge start.x="1" start.y="0" finish.x="1.5" finish.y="0.80000000000000004"/>
+        <edge start.x="2.5" start.y="0" finish.x="1.5" finish.y="0.80000000000000004"/>
+        <edge start.x="2.5" start.y="0" finish.x="2.5" finish.y="1"/>
+        <edge start.x="1.5" start.y="0.80000000000000004" finish.x="2.5" finish.y="1"/>
+        <edge start.x="1.5" start.y="0.80000000000000004" finish.x="1.5" finish.y="1.8999999999999999"/>
+        <edge start.x="1.5" start.y="0.80000000000000004" finish.x="2.5" finish.y="2.1000000000000001"/>
+        <edge start.x="1.5" start.y="0.80000000000000004" finish.x="1" finish.y="1.2"/>
+        <edge start.x="2.5" start.y="1" finish.x="1.5" finish.y="1.8999999999999999"/>
+        <edge start.x="2.5" start.y="1" finish.x="2.5" finish.y="2.1000000000000001"/>
+        <edge start.x="2.5" start.y="1" finish.x="3.6000000000000001" finish.y="0.80000000000000004"/>
+        <edge start.x="1.5" start.y="1.8999999999999999" finish.x="2.5" finish.y="2.1000000000000001"/>
+        <edge start.x="1.5" start.y="1.8999999999999999" finish.x="1.5" finish.y="3.0499999999999998"/>
+        <edge start.x="1.5" start.y="1.8999999999999999" finish.x="2.3999999999999999" finish.y="2.9500000000000002"/>
+        <edge start.x="1.5" start.y="1.8999999999999999" finish.x="1" finish.y="2.1000000000000001"/>
+        <edge start.x="2.5" start.y="2.1000000000000001" finish.x="1.5" finish.y="3.0499999999999998"/>
+        <edge start.x="2.5" start.y="2.1000000000000001" finish.x="2.3999999999999999" finish.y="2.9500000000000002"/>
+        <edge start.x="2.5" start.y="2.1000000000000001" finish.x="3.6000000000000001" finish.y="1.98"/>
+        <edge start.x="1.5" start.y="3.0499999999999998" finish.x="2.3999999999999999" finish.y="2.9500000000000002"/>
+        <edge start.x="1.5" start.y="3.0499999999999998" finish.x="1.45" finish.y="4.2999999999999998"/>
+        <edge start.x="1.5" start.y="3.0499999999999998" finish.x="2.4500000000000002" finish.y="4.4000000000000004"/>
+        <edge start.x="1.5" start.y="3.0499999999999998" finish.x="1" finish.y="3.0899999999999999"/>
+        <edge start.x="2.3999999999999999" start.y="2.9500000000000002" finish.x="1.45" finish.y="4.2999999999999998"/>
+        <edge start.x="2.3999999999999999" start.y="2.9500000000000002" finish.x="2.4500000000000002" finish.y="4.4000000000000004"/>
+        <edge start.x="2.3999999999999999" start.y="2.9500000000000002" finish.x="3.6000000000000001" finish.y="3.1000000000000001"/>
+        <edge start.x="1.45" start.y="4.2999999999999998" finish.x="2.4500000000000002" finish.y="4.4000000000000004"/>
+        <edge start.x="1.45" start.y="4.2999999999999998" finish.x="1.8500000000000001" finish.y="5.5999999999999996"/>
+        <edge start.x="1.45" start.y="4.2999999999999998" finish.x="0.25" finish.y="4.9500000000000002"/>
+        <edge start.x="1.45" start.y="4.2999999999999998" finish.x="0.90000000000000002" finish.y="3.8500000000000001"/>
+        <edge start.x="2.4500000000000002" start.y="4.4000000000000004" finish.x="1.8500000000000001" finish.y="5.5999999999999996"/>
+        <edge start.x="2.4500000000000002" start.y="4.4000000000000004" finish.x="3.7000000000000002" finish.y="4.2000000000000002"/>
+        <edge start.x="1.8500000000000001" start.y="5.5999999999999996" finish.x="0.25" finish.y="4.9500000000000002"/>
+        <edge start.x="1.8500000000000001" start.y="5.5999999999999996" finish.x="0.75" finish.y="6.4000000000000004"/>
+        <edge start.x="1.8500000000000001" start.y="5.5999999999999996" finish.x="3.6000000000000001" finish.y="5.7000000000000002"/>
+        <edge start.x="0.75" start.y="6.4000000000000004" finish.x="-0.5" finish.y="5.9000000000000004"/>
+        <edge start.x="0.25" start.y="4.9500000000000002" finish.x="-0.5" finish.y="5.9000000000000004"/>
+        <edge start.x="0.25" start.y="4.9500000000000002" finish.x="-0.20000000000000001" finish.y="4.5"/>
+        <edge start.x="-0.5" start.y="5.9000000000000004" finish.x="-0.20000000000000001" finish.y="4.5"/>
+        <edge start.x="-0.20000000000000001" start.y="4.5" finish.x="-0.10000000000000001" finish.y="3.5"/>
+        <edge start.x="-0.20000000000000001" start.y="4.5" finish.x="-1.25" finish.y="4.4000000000000004"/>
+        <edge start.x="-0.20000000000000001" start.y="4.5" finish.x="0.40000000000000002" finish.y="4.0999999999999996"/>
+        <edge start.x="-0.10000000000000001" start.y="3.5" finish.x="-0.14999999999999999" finish.y="2.5"/>
+        <edge start.x="-0.10000000000000001" start.y="3.5" finish.x="-1.25" finish.y="4.4000000000000004"/>
+        <edge start.x="-0.10000000000000001" start.y="3.5" finish.x="-1.3" finish.y="3.1000000000000001"/>
+        <edge start.x="-0.10000000000000001" start.y="3.5" finish.x="0.45000000000000001" finish.y="3.2000000000000002"/>
+        <edge start.x="-0.14999999999999999" start.y="2.5" finish.x="-0.13" finish.y="1.5"/>
+        <edge start.x="-0.14999999999999999" start.y="2.5" finish.x="-1.3" finish.y="3.1000000000000001"/>
+        <edge start.x="-0.14999999999999999" start.y="2.5" finish.x="-1.25" finish.y="1.8999999999999999"/>
+        <edge start.x="-0.14999999999999999" start.y="2.5" finish.x="0.45000000000000001" finish.y="2.2000000000000002"/>
+        <edge start.x="-0.13" start.y="1.5" finish.x="-1.25" finish.y="1.8999999999999999"/>
+        <edge start.x="-0.13" start.y="1.5" finish.x="-1.1000000000000001" finish.y="0.80000000000000004"/>
+        <edge start.x="-0.13" start.y="1.5" finish.x="0.5" finish.y="1.6000000000000001"/>
+        <edge start.x="-1.2" start.y="-0.10000000000000001" finish.x="-1.1000000000000001" finish.y="0.80000000000000004"/>
+        <edge start.x="-1.2" start.y="-0.10000000000000001" finish.x="-2.1000000000000001" finish.y="0"/>
+        <edge start.x="-1.1000000000000001" start.y="0.80000000000000004" finish.x="-1.25" finish.y="1.8999999999999999"/>
+        <edge start.x="-1.1000000000000001" start.y="0.80000000000000004" finish.x="-2.1000000000000001" finish.y="1"/>
+        <edge start.x="-1.25" start.y="1.8999999999999999" finish.x="-1.3" finish.y="3.1000000000000001"/>
+        <edge start.x="-1.25" start.y="1.8999999999999999" finish.x="-2.0099999999999998" finish.y="2.1000000000000001"/>
+        <edge start.x="-1.3" start.y="3.1000000000000001" finish.x="-1.25" finish.y="4.4000000000000004"/>
+        <edge start.x="-1.3" start.y="3.1000000000000001" finish.x="-2.2000000000000002" finish.y="3.0499999999999998"/>
+        <edge start.x="-1.25" start.y="4.4000000000000004" finish.x="-2.0800000000000001" finish.y="4.25"/>
+    </log>
+</root>
